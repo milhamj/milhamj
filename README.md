@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm a sofware engineer primarily focus on developing Android native app. 
+I do some side projects using python, nodejs, and go.
+
+🍭
+
 <!--
 **milhamj/milhamj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
